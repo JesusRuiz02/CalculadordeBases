@@ -1,0 +1,3 @@
+﻿  Calculadora.cpp
+C:\Users\azulj\OneDrive\Escritorio\Calculadora\Calculadora.cpp(79,56): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+  Calculadora.vcxproj -> C:\Users\azulj\OneDrive\Escritorio\Calculadora\Debug\Calculadora.exe
